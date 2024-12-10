@@ -23,8 +23,8 @@ export function Navigation({ profileImage, name }: NavigationProps) {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center space-x-4">
               <img
-                src={profileImage}
-                alt={name}
+                src="https://ibb.co/9NNdTrk"
+                alt="Haseeb ur Rehman"
                 className="w-8 h-8 rounded-full object-cover border-2 border-white"
               />
               <span className="text-white font-semibold">{name}</span>
