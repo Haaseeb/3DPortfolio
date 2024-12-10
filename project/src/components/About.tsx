@@ -20,9 +20,9 @@ export function About() {
           </p>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 mt-12">
             <Skill title="Expertise" items={['Exterior Visualization', 'Interior Rendering', 'Virtual Walkthrough']} />
-            <Skill title="Software" items={['Blender', 'V-Ray', 'Lumion']} />
+            <Skill title="Software" items={['Blender']} />
             <Skill title="Specialties" items={['Residential', 'Commercial', 'Hospitality']} />
-            <Skill title="Deliverables" items={['3D Renders', 'Animations', 'VR Tours']} />
+            <Skill title="Deliverables" items={['3D Renders', 'Animations']} />
           </div>
         </div>
       </div>
