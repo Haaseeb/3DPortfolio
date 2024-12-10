@@ -3,36 +3,36 @@ import { Quote, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const testimonials = [
   {
-    quote: "Haseeb's architectural visualizations are incredibly detailed and realistic. His work helped us secure multiple project approvals.",
-    author: "Sarah Ahmed",
+    quote: "The seller is a very Talented 3D artist, the work is perfect. I would recommend to try the services",
+    author: "kashifiqbalnaul",
     position: "Senior Architect",
     company: "Design Studios International",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&auto=format&fit=crop&q=80"
   },
   {
-    quote: "The quality of renders exceeded our expectations. Haseeb has an excellent eye for lighting and materials.",
-    author: "Muhammad Ali",
+    quote: "He really did a great work here. It's nice working with you. I like his creative skills. Thanks for always willing to help and on time delivery was on point. Thank you.",
+    author: "devboh",
     position: "Project Manager",
     company: "Urban Developers",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&auto=format&fit=crop&q=80"
   },
   {
-    quote: "Professional, timely, and highly skilled. The 3D visualizations perfectly captured our design intent.",
-    author: "Fatima Khan",
+    quote: "Insane skills! He was able to get the model I asked accurately and super fast, I will definitely request your services in the future. Thanks!",
+    author: "spicytaco815",
     position: "Interior Designer",
     company: "Spaces & Beyond",
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&auto=format&fit=crop&q=80"
   },
   {
-    quote: "Outstanding work on our commercial project. Haseeb's attention to detail is remarkable.",
-    author: "Hassan Malik",
+    quote: "This is the most insane value I've seen from any gig on Fiverr ever. Highly recommend.",
+    author: "inkshot",
     position: "CEO",
     company: "Architectural Innovations",
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80"
   },
   {
-    quote: "Exceptional talent in architectural visualization. The renders were crucial in our client presentations.",
-    author: "Zainab Abbas",
+    quote: "I got what I wanted, on time, and according to my requirements. I'm pretty happy with what I got. :)",
+    author: "queenie_chan",
     position: "Design Director",
     company: "Creative Architects",
     image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400&auto=format&fit=crop&q=80"
