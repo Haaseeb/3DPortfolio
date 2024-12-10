@@ -7,7 +7,7 @@ export function Header() {
       <div className="container mx-auto px-4 py-16 text-center">
         <div className="mb-8">
           <img
-            src="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=800&auto=format&fit=crop&q=80"
+            src="https://ibb.co/9NNdTrk"
             alt="Haseeb Ur Rehman"
             className="w-40 h-40 rounded-full mx-auto object-cover border-4 border-white/20 shadow-xl"
           />
